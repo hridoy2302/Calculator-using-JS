@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&display=swap');
+
+html, body{
+    height: 100%;
+    width: 100%;
+    
+
+}
+
+.button{
+    width: 66px;
+    padding: 20px;
+    margin: 5px 2px;
+    border: 2px solid black;
+    border-radius: 8px;
+    box-shadow: 2px 4px 8px rgba(0,0,0,0.4);
+    cursor: pointer;
+    font-family:'DynaPuff', cursive;;
+}
+
+.row{
+    margin: 3px 0;
+}
+
+.row input{
+    margin: 0;
+    padding: 13px 30px;
+    border: 2px solid red;
+    border-radius: 10px;
+    font-size: 18.5px;
+}
